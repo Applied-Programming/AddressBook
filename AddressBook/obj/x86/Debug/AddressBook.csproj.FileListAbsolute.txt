@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\AddressBook\AddressBook\obj\x86\Debug\AddressBook.Form1.resources
+C:\Users\HP\Desktop\AddressBook\AddressBook\obj\x86\Debug\AddressBook.Properties.Resources.resources
+C:\Users\HP\Desktop\AddressBook\AddressBook\obj\x86\Debug\AddressBook.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\AddressBook\AddressBook\bin\Debug\AddressBook.exe
+C:\Users\HP\Desktop\AddressBook\AddressBook\bin\Debug\AddressBook.pdb
+C:\Users\HP\Desktop\AddressBook\AddressBook\obj\x86\Debug\AddressBook.exe
+C:\Users\HP\Desktop\AddressBook\AddressBook\obj\x86\Debug\AddressBook.pdb
+C:\Users\HP\Documents\GitHub\AddressBook\AddressBook\obj\x86\Debug\AddressBook.exe
+C:\Users\HP\Documents\GitHub\AddressBook\AddressBook\obj\x86\Debug\AddressBook.pdb
+C:\Users\HP\Documents\GitHub\AddressBook\AddressBook\bin\Debug\AddressBook.exe
+C:\Users\HP\Documents\GitHub\AddressBook\AddressBook\bin\Debug\AddressBook.pdb
+C:\Users\HP\Documents\GitHub\AddressBook\AddressBook\obj\x86\Debug\AddressBook.Form1.resources
+C:\Users\HP\Documents\GitHub\AddressBook\AddressBook\obj\x86\Debug\AddressBook.Properties.Resources.resources
+C:\Users\HP\Documents\GitHub\AddressBook\AddressBook\obj\x86\Debug\AddressBook.csproj.GenerateResource.Cache
